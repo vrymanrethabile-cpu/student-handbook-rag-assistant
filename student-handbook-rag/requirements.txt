@@ -1,0 +1,20 @@
+fastapi==0.115.12
+uvicorn==0.34.2
+pymupdf==1.25.5
+sentence-transformers==3.4.1
+chromadb>=1.0.9
+langchain==0.3.27
+langchain-text-splitters==0.3.11
+pydantic==2.11.7
+pydantic-settings==2.10.1
+python-dotenv==1.1.1
+pytest==8.3.5
+httpx==0.28.1
+truststore==0.10.5
+# Pinned: newest releases are blocked by this machine's Application Control policy
+regex==2025.9.18
+numpy==2.2.6
+scipy==1.14.1
+scikit-learn==1.5.2
+grpcio==1.68.1
+xxhash==3.5.0
